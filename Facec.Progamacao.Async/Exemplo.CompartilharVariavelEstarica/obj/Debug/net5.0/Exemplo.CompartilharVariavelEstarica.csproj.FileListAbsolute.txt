@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.exe
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\bin\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.pdb
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\refint\Exemplo.CompartilharVariavelEstarica.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.pdb
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\Exemplo.CompartilharVariavelEstarica.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.CompartilharVariavelEstarica\obj\Debug\net5.0\ref\Exemplo.CompartilharVariavelEstarica.dll

@@ -1,0 +1,16 @@
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.exe
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.deps.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.runtimeconfig.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.runtimeconfig.dev.json
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\bin\Debug\net5.0\Exemplo.Threads.pdb
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.csproj.AssemblyReference.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.AssemblyInfoInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.AssemblyInfo.cs
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.csproj.CoreCompileInputs.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\refint\Exemplo.Threads.dll
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.pdb
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\Exemplo.Threads.genruntimeconfig.cache
+C:\Users\facec.lab04\source\repos\Facec.Progamacao.Async\Exemplo.Threads\obj\Debug\net5.0\ref\Exemplo.Threads.dll
